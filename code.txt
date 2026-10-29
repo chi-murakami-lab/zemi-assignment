@@ -1,7 +1,7 @@
-#include <stdio.h>
+nano code.txtnano code.txt#include <stdio.h>
 
 int main(void)
 {
-    printf("Hello GitHub\n")
+    printf("Hello GitHub\n");
     return 0;
 }
